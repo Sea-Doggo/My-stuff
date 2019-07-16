@@ -1,0 +1,15 @@
+def Madlips():
+
+    print("This game will make a story from what you enter:")
+    Place = input("where are you:")
+    Name = input("what is your name:") 
+    Animal = input("what is the most amazing animal:")
+    Stick = input("what is your favourite type of stick:")
+    
+    
+    print("Once apon a time there was a Hooman named, " + Name + " who was slidding down, " + Place + " he incountered a magic, magistic, " + Animal + " who wealed the all powerful, " + Stick + Name + " was sent into the dark realms never to be seen again!")
+    input("Did you enjoy the story?:")
+    
+    
+    
+Madlips()   
